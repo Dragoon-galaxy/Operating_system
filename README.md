@@ -1,2 +1,2 @@
 # interstellar_code
-Here are some advance coding problems in java 
+Here are some algorithms in OS  
